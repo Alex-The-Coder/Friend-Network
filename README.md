@@ -1,2 +1,3 @@
 # Friend-Network
-C++ implementation of a Facebook-esque friend network where recommended friends are based on number of mutual friends
+C++ implementation of a Facebook-esque friend network
+Recommended friends are based on number of mutual friends
